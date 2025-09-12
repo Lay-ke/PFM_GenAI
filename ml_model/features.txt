@@ -1,0 +1,5 @@
+Speed (rpm)
+Load (kg)
+Temperature (℃)
+Vibration (m/s²)
+Current (A)

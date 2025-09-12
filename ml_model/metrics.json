@@ -1,0 +1,13 @@
+{
+  "test_accuracy": 0.9887005649717514,
+  "test_f1": 0.9886823007987531,
+  "num_classes": 6,
+  "class_names": [
+    "ball bearing",
+    "belt slippage",
+    "central shaft",
+    "drive motor",
+    "idler roller fault",
+    "pulley"
+  ]
+}
