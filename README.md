@@ -8,7 +8,8 @@ This repository contains a serverless prototype for predictive maintenance, desi
 
 ## Architecture
 
-Refer to `PMF - architecture.jpg` for the full architecture diagram.
+Here is the full architecture diagram.
+![PFM_GenAI Architecture Diagram](./PMF%20-%20architecture.jpg)
 
 **Core runtime responsibilities:**
 - **Sensor simulation:** Generates periodic sensor payloads.
